@@ -1,4 +1,4 @@
-import PageRoute from "./pageRoute/pageRoute";
+import PageRoute from "./pageRoute/PageRoute.jsx";
 
 function App() {
   return (
